@@ -1,1 +1,2 @@
-# New-Portafolio using Gatspy
+# New-Portafolio using Gatsby
+this is a new portafolio with React and Gatsby 
